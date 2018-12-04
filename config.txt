@@ -1,4 +1,4 @@
-prefix= 2help
-game= 2thelp
+prefix=2help
+game=2help
 token=NTE5MjA5ODczODg0NDQ2NzM2.DucADg.1Js_pslc6DQ9q11zl8ng0ymC5Mw
 owner=366336969665675274
